@@ -10,8 +10,10 @@ function Projects() {
                         Projects
                     </h1>
                     <p className="tracking-wide text-gray-600 dark:text-gray-400 mb-16">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae error eum facere officia nam! Numquam, molestiae ea. Laboriosam, facere tempora cum dicta quia eligendi perspiciatis veniam. Numquam velit accusantium rerum?
-                    </p>
+    Here are some of the projects I've built while learning and working with
+    JavaScript and the MERN stack, along with smaller projects that helped me
+    strengthen my problem-solving and development skills.
+</p>
                 </div>
                 <Portfolio/>
             </div>

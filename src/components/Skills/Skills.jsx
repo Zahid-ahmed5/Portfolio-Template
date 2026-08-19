@@ -1,9 +1,25 @@
 import React from 'react'
 
 function Skills() {
-    const skills = ['TypeScript', 'React', 'Angular', 'HTML', 'CSS', 'Vite'];
+    const skills = [
+    'HTML',
+    'CSS',
+    'JavaScript',
+    'React',
+    'Node.js',
+    'Express.js',
+    'MongoDB'
+];
 
-    const devtools = ['Bootstrap ', 'Tailwind', 'Github', 'Codepen', 'Terminal', 'Vercel', 'Netlify'];
+    const devtools = [
+    'Git',
+    'GitHub',
+    'VS Code',
+    'Postman',
+    'Tailwind CSS',
+    'Vite',
+    'MongoDB Compass'
+];
     
     return (
         <>
@@ -12,7 +28,7 @@ function Skills() {
                     Skills
                 </h1>
                 <p className="tracking-wide text-gray-600 dark:text-gray-400 mb-16">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente voluptates provident in assumenda quisquam repudiandae, labore doloremque corporis exercitationem placeat nesciunt dolore sit suscipit reiciendis aliquam qui. Earum, eligendi modi.
+                    Technologies and tools I've worked with while building web applications and developing my full-stack skills.
                 </p>
                 <div className='mt'>
                     <p>Here are a few technologies i work with:
